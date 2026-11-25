@@ -54,8 +54,19 @@ This project was delivered under **DevKey Tech**, with the complete website and 
 
 <img width="1282" height="640" alt="image" src="https://github.com/user-attachments/assets/f248a3d9-0d0e-4c6f-ad69-fd91a27f6f4a" />
 <img width="1262" height="641" alt="image" src="https://github.com/user-attachments/assets/ff98d80a-124f-4410-a842-cee918b60b9e" />
+<img width="1266" height="638" alt="image" src="https://github.com/user-attachments/assets/286ecafc-b4ce-4ee9-8160-a5d4de6de4b9" />
 
+## About
 
+<img width="1256" height="636" alt="image" src="https://github.com/user-attachments/assets/0b09a252-f31c-4014-92e9-6fb5de44c578" />
+
+<img width="1260" height="642" alt="image" src="https://github.com/user-attachments/assets/83e1ee75-b057-4cf2-a019-b3420454ce26" />
+
+<img width="1280" height="537" alt="image" src="https://github.com/user-attachments/assets/3001fde8-a350-4ab9-81ca-310484b7636f" />
+
+## Admin Login
+
+<img width="1278" height="637" alt="image" src="https://github.com/user-attachments/assets/6b80a3f4-daf3-44fb-a258-bd67eb95c540" />
 
 ## Source Code
 
